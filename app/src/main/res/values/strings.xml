@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">BestRestaurant</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- 권한 화면 -->
+    <string name="permission_checking">Checking Permissions...</string>
+    <string name="permission_setting_title">Permission Settings</string>
+    <string name="permission_setting_message">Permission approval required to proceed.</string>
+    <string name="permission_setting_restart">Please approve required permissions and restart the app.</string>
+
+    <!-- 시작 화면 -->
+    <string name="index_message">Best Restaurant\nAll here...</string>
+    <string name="delicious">Delicious</string>
+
+    <string name="submit">Submit</string>
+    <string name="network_not_working">Network connection unavailable..</string>
+
+    <!-- 왼쪽 메뉴 -->
+    <string name="nav_list">Restaurant list</string>
+    <string name="nav_map">Maps</string>
+    <string name="nav_keep">Favorites</string>
+    <string name="nav_register">Register</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- 공통 -->
+    <string name="skip_string">...</string>
+
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Settings</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="complete">Complete</string>
+
+    <!-- 프로필 -->
+    <string name="profile_setting">Profile</string>
+
+    <string name="profile_name">Name</string>
+    <string name="profile_sextype">Sex</string>
+    <string name="profile_birth">Date of Birth</string>
+    <string name="profile_phone">Phone</string>
+
+    <string name="sex_man">Male</string>
+    <string name="sex_woman">Female</string>
+
+    <string name="device_number">Device #</string>
+    <string name="phone_number">Phone #</string>
+
+    <string name="name_need">Please enter the name</string>
+    <string name="change_save">Save the changes?</string>
+
+    <string name="no_change">No Changes</string>
+    <string name="no_data">No data found.</string>
+
+    <string name="member_insert_fail_message">Fail to create an user account.\n Please try again..</string>
+
+    <!-- 프로필 아이콘 -->
+    <string name="albumn">Album</string>
+    <string name="camera">Camera</string>
+
+    <!-- 맛집 등록 -->
+    <string name="bestfood_register">맛집 등록</string>
+    <string name="input_bestfood_name">음식점이름을 입력해주세요</string>
+    <string name="input_bestfood_address">주소를 입력해주세요</string>
+    <string name="input_bestfood_tel">전화번호를 입력해주세요</string>
+    <string name="input_bestfood_description">설명을 입력해주세요</string>
+    <string name="input_bestfood_image_memo">이미지 설명을 입력해주세요(생략가능)</string>
+    <string name="input_text_length">글자수 :</string>
+    <string name="input_text_max_length">/500</string>
+
+    <string name="not_valid_tel_number">Invalid phone number</string>
+
+
+    <!-- 맛집 이미지 등록 화면 -->
+    <string name="title_bestfood_image_register">Add images</string>
+    <string name="no_image_ready">이미지를 준비중입니다. 잠시 후에 다시 시도해주세요</string>
+    <string name="no_image_selected">이미지를 먼저 선택해주세요</string>
+
+    <!-- 맛집 리스트 화면 -->
+    <string name="order_meter">By distance</string>
+    <string name="order_favorite">By popularity</string>
+    <string name="order_recent">By recency</string>
+
+    <!-- 지도 리스트 화면 -->
+    <string name="list_open">목록보기</string>
+    <string name="list_close">목록닫기</string>
+    <string name="no_list">현재 위치에는 조회할 데이터가 없습니다.</string>
+    <string name="message_zoom_level_max_over">지도를 좀 더 확대해야 배너가 보입니다.</string>
+    <string name="unit_m">m</string>
+    <string name="unit_km">Km</string>
+
+    <!-- DialogLib.java -->
+    <string name="keep_insert">즐겨찾기 등록</string>
+    <string name="keep_insert_message">즐겨찾기에 등록하시겠습니까?</string>
+
+    <string name="keep_delete">즐겨찾기 삭제</string>
+    <string name="keep_delete_message">즐겨찾기에서 삭제하시겠습니까?</string>
+
+    <!-- 맛집 정보 화면 -->
+    <string name="description">상세설명</string>
+    <string name="map">지도</string>
+    <string name="location">위치보기</string>
+    <string name="no_text">없음</string>
+    <string name="loading">잠시만 기다려주세요</string>
+    <string name="loading_not">잠시후에 다시 시도해주세요</string>
+
+    <!-- 즐겨찾기 -->
+    <string name="no_keep">즐겨찾기에 등록된 음식점이 없습니다.</string>
+</resources>
